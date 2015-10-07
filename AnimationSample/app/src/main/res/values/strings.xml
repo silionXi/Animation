@@ -1,0 +1,12 @@
+<resources>
+    <string name="app_name">AnimationSample</string>
+    <string name="rotate_code">RotateCode</string>
+    <string name="rotate_xml">RotateXML</string>
+    <string name="alpha_code">AlphaCode</string>
+    <string name="alpha_xml">AlphaXML</string>
+    <string name="scale_code">ScaleCode</string>
+    <string name="Scale_xml">ScaleXML</string>
+    <string name="translate_code">TranslateCode</string>
+    <string name="translate_xml">TranslateXML</string>
+    <string name="anima_mul">AnimMul</string>
+</resources>
